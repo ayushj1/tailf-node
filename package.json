@@ -1,0 +1,17 @@
+{
+  "name": "tailf-node",
+  "version": "1.0.0",
+  "description": "basic tailf implementation",
+  "main": "server.js",
+  "dependencies": {
+    "filewatcher": "^3.0.1",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'No Tests'",
+    "start": "node server.js"
+  },
+  "author": "Suraj",
+  "license": "ISC"
+}
